@@ -34,7 +34,7 @@
 
 Thunder is a fully secure real-time chat application built using Appwrite. Try out [Thunder](https://github.com/mehtaaajay/thunder) 🙌
 
-[Read blog to understand better 📖]{DEV_BLOG_LINK_HERE}
+[Read blog to understand better 📖](https://dev.to/ajay___mehta/introducing-thunder-55pg)
 
 ## 🚀 Demo
 

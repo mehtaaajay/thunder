@@ -83,10 +83,10 @@ npm install
 - [HTML](https://html.spec.whatwg.org/)
 - [CSS](https://www.w3.org/Style/CSS/specs.en.html)
 - [JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-- [React]: (https://reactjs.org/)
-- [Appwrite]: (https://appwrite.io/)
-- [react-router-dom]: (https://v5.reactrouter.com/web/guides/quick-start)
-- [react-toastify]: (https://fkhadra.github.io/react-toastify/introduction/)
+- [React](https://reactjs.org/)
+- [Appwrite](https://appwrite.io/)
+- [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)
+- [react-toastify](https://fkhadra.github.io/react-toastify/introduction/)
 
 ## 🛡️ License
 

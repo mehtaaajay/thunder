@@ -1,0 +1,42 @@
+.sidebar__item {
+    display: flex;
+    align-items: center;
+
+    padding: 5px 10px;
+
+    border-bottom: 1px solid lightgrey;
+
+    user-select: none;
+
+    cursor: pointer;
+}
+.sidebar__item:hover {
+    background-color: whitesmoke;
+}
+
+.sidebar__item.selected {
+    background-color: whitesmoke;
+}
+.sidebar__item.hidden {
+    display: none;
+}
+
+.sidebar__itemProfilePic img {
+    height: 60px;
+    width: 60px;
+
+    border-radius: 50%;
+}
+
+.sidebar__itemInfo {
+    margin-left: 20px;
+}
+.sidebar__itemInfo h3 {
+    color: #333;
+    font-size: 18px;
+}
+.sidebar__itemInfo h4 {
+    color: #777;
+    font-weight: normal;
+    font-size: 14px;
+}

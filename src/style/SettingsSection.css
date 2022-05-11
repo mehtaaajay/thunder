@@ -1,0 +1,16 @@
+.settings__section {
+    width: 70%;
+}
+.settings__sectionHeader {
+    background-color: white;
+
+    padding: 20px;
+
+    border-bottom: 1px solid lightgrey;
+
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+
+    color: #888;
+
+    letter-spacing: 0.5px;
+}

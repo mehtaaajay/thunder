@@ -1,0 +1,22 @@
+.settings__sidebar {
+    width: 30%;
+
+    background: white;
+
+    border-right: 1px solid lightgrey;
+
+    height: 100vh;
+}
+.settings__sidebarHeader {
+    background: whitesmoke;
+
+    border-bottom: 1px solid lightgrey;
+
+    padding: 10px;
+
+    color: #444;
+}
+.settings__sidebarItems {
+    display: flex;
+    flex-direction: column;
+}

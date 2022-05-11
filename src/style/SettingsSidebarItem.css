@@ -1,0 +1,19 @@
+.settings__sidebarItem {
+    padding: 10px;
+
+    border-bottom: 1px solid lightgrey;
+    
+    cursor: pointer;
+    
+    transition: background-color 0.2s ease;
+}
+.settings__sidebarItem a {
+    color: #333;
+}
+.settings__sidebarItem:hover {
+    background-color: #e5e5e5;
+}
+
+.settings__sidebarItem.active {
+    background-color: #e5e5e5;
+}

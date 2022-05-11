@@ -1,0 +1,110 @@
+.container {
+    display: flex;
+}
+.profile {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 50px;
+    padding-right: 200px;
+}
+.profile__image {
+    position: relative;    
+}
+.profile__image > img {
+    background-image: url('../images/dummy_user.png');
+    background-size: cover;
+    background-position: center;
+}
+.profile__image img {
+    height: 300px;
+    width: 300px;
+
+    border: 1px solid lightgrey;
+    border-radius: 50%;
+
+    box-shadow: 0 0 50px 1px rgba(0, 0, 0, 0.2);
+}
+.profile__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.profile__info input,
+.changePassword input {
+    color: #4a4a4a;
+    font-size: 16px;
+
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+
+    padding: 10px;
+    margin-bottom: 25px;
+
+    width: 300px;
+
+    outline: none;
+}
+.profile__info input:focus,
+.changePassword input:focus {
+    border-color: #0082e6;    
+}
+.profile__info button,
+.changePassword button {
+    background: #0082e6;
+
+    color: white;
+    font-size: 18px;
+
+    border: none;
+    border-radius: 2px;
+
+    padding: 8px 10px;
+
+    cursor: pointer;
+
+    transition: background-color 0.2s ease;
+}
+.profile__info button:hover {
+    background-color: #1b9bff;
+}
+
+#profilePic {
+    display: none;
+}
+
+.profile__image label {
+    position: absolute;
+    bottom: 0;
+    right: 35px;
+
+    background: #0082e6;
+
+    border: 3px solid white;
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.3);
+
+    cursor: pointer;
+}
+.profile__image label img {
+    width: 50px;
+    height: 50px;
+
+    filter: invert(1);
+}
+
+.changePassword {
+    height: 75vh;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

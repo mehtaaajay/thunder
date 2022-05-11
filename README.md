@@ -1,46 +1,106 @@
-# Getting Started with Create React App and Redux
+<h1 align="center">thunder 🚀</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+<p align="center">
+<a href="https://github.com/mehtaaajay/thunder/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/mehtaaajay/thunder?style=flat-square" alt="thunder License" />
+</a>
+<a href="https://github.com/mehtaaajay/thunder/fork" target="blank">
+<img src="https://img.shields.io/github/forks/mehtaaajay/thunder?style=flat-square" alt="thunder Forks"/>
+</a>
+<a href="https://github.com/mehtaaajay/thunder/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/mehtaaajay/thunder?style=flat-square" alt="thunder Stars"/>
+</a>
+<a href="https://github.com/mehtaaajay/thunder/issues" target="blank">
+<img src="https://img.shields.io/github/issues/mehtaaajay/thunder?style=flat-square" alt="thunder Issues"/>
+</a>
+<a href="https://github.com/mehtaaajay/thunder/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/mehtaaajay/thunder?style=flat-square" alt="thunder Pull Requests"/>
+</a>
+<a href="https://twitter.com/intent/tweet?text=Checkout Thunder: the real-time chat application built by me for Appwrite X Dev Hackathon; Source Code: github.com/mehtaaajay/thunder #appwritehack #appwrite #dev"><img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2Fmehtaaajay%2Fthunder"></a>
 
-## Available Scripts
+</p>
 
-In the project directory, you can run:
+<p align="center"><img src="./src/images/logo.png" alt="thunder Logo" width="550" /></p>
 
-### `npm start`
+<p align="center">
+    <a href="https://github.com/mehtaaajay" target="blank">View Demo</a>
+    ·
+    <a href="https://github.com/mehtaaajay/thunder/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/mehtaaajay/thunder/issues/new/choose">Request Feature</a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Introducing Thunder - Real-time Chat Application 👋
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Thunder is a fully secure real-time chat application built using Appwrite. Try out [Thunder](https://github.com/mehtaaajay/thunder) 🙌
 
-### `npm test`
+[Read blog to understand better 📖]{DEV_BLOG_LINK_HERE}
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Demo
 
-### `npm run build`
+Try the App: [Thunder](https://github.com/mehtaaajay/thunder)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 😎 Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Let me share the awesome features of Thunder.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- 100% secure registration and login
+- Send message to any user in real-time
+- Update your profile (including profile picture)
+- Delete the messages you don't want
+- Search the user which you want to chat to
 
-### `npm run eject`
+Take your experience to next level wih thunder! Mission Mars 🚀
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Installation Steps
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone the repository
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git clone https://github.com/mehtaaajay/thunder.git
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. Change the working directory
 
-## Learn More
+```bash
+cd thunder
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. Install dependencies
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install
+```
+
+4. Open the app and play with the codebase
+
+## 🤝 Contributing
+
+- Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/mehtaaajay/thunder/compare).
+
+## 💻 Built with
+
+- [HTML](https://html.spec.whatwg.org/)
+- [CSS](https://www.w3.org/Style/CSS/specs.en.html)
+- [JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+- [React]: (https://reactjs.org/)
+- [Appwrite]: (https://appwrite.io/)
+- [react-router-dom]: (https://v5.reactrouter.com/web/guides/quick-start)
+- [react-toastify]: (https://fkhadra.github.io/react-toastify/introduction/)
+
+## 🛡️ License
+
+This product is licensed under the MIT License - see the [`LICENSE`](./LICENSE) file for details.
+
+## 👨‍💻 Author
+
+### 👤 Ajay Mehta
+
+- Github: [@mehtaaajay](https://github.com/mehtaaajay)
+- Dev: [@ajay___mehta](https://dev.to/ajay___mehta)
+- Twitter: [@mehtaaajay001](https://twitter.com/ajay___mehta)
+
+## 🙏 Support
+
+This product needs a ⭐️ from you. Don't forget to leave a star ⭐️
+
